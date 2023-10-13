@@ -29,7 +29,7 @@ Contributors names and contact info
 
 Junaid Akhtar [LinkedIn](https://www.linkedin.com/in/junaid-akhtar-152baa1b7/)
 
-ZhuangZhuang Dai [LinkedIn](https://www.linkedin.com/in/zhuangzhuang-dai-140566144/)
+Zhuangzhuang Dai [LinkedIn](https://www.linkedin.com/in/zhuangzhuang-dai-140566144/)
 
 ## Version History
 
