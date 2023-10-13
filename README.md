@@ -7,11 +7,7 @@ These files were used to synchronize the two Azure Kinect Cameras as well as the
 
 ## Getting Started
 
-### Dependencies
-
-* Ensure to follow https://github.com/pupil-labs/pupil guide on setup, it will provide all the necessary dependencies needed for this.
-
-### Installing
+### Setup
 
 * Ensure to follow https://github.com/pupil-labs/pupil guide on setup, it will provide all the necessary dependencies needed for this (this setup is designed for Windows OS)
 
