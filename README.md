@@ -27,10 +27,9 @@ If support is required, please raise an issue.
 
 Contributors names and contact info
 
-ex. Junaid Akhtar
-ex. [LinkedIn](https://www.linkedin.com/in/junaid-akhtar-152baa1b7/)
+Junaid Akhtar [LinkedIn](https://www.linkedin.com/in/junaid-akhtar-152baa1b7/)
 
-ex. ZhuangZhuang Dai
+ZhuangZhuang Dai [LinkedIn](https://www.linkedin.com/in/zhuangzhuang-dai-140566144/)
 
 ## Version History
 
