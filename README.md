@@ -22,17 +22,10 @@ These files were used to synchronize the two Azure Kinect Cameras as well as the
 * recordGUI.py (script_path variable needs to be set to path/of/synchronization_script1.ps1)
 * record_capture.py (k4a_recorder_path variable needs to be set to path/of/k4arecorder.exe and python_command variable to PythonVersion/python.exe)
 * synchronization_script1.ps1 ($recordCommand and $stopCommand variable to PythonVersion/python.exe)
-* 
-```
-code blocks for commands
-```
 
 ## Help
 
-Any advise for common problems or issues.
-```
 If support is required, please raise an issue.
-```
 
 ## Authors
 
